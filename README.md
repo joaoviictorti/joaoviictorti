@@ -1,4 +1,4 @@
-## Olá, meu nome é João Victor!
+## Olá! Meu nome é João Victor!
 <div align="center">
   <a href="https://github.com/joaoviictorti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoviictorti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
