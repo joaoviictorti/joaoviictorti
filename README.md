@@ -35,13 +35,13 @@
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<a href="joaovictorti08@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Gmail"/>
 </a>
 <a href="ttps://www.linkedin.com/in/joaovictor08/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-João Victor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/viictorjj" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-viictorjj-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
