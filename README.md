@@ -1,5 +1,4 @@
-## Olá! Meu nome é João Victor!
-🐍 - Estudante de Python
+<h1> Olá Meu nome é João Victor </h1>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaoviictorti/28543b61007ca9a218a149aaa5094c9f/raw/53f6404615234cda4c8725a3e1a409775ad2babb/foto.svg"/> 
 <div align="center">
   <a href="https://github.com/joaoviictorti">
