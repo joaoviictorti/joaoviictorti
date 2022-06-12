@@ -8,10 +8,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-src="https://instagram.fjpa13-1.fna.fbcdn.net/v/t51.2885-19/s150x150/245132222_607384326966138_2145634852563775360_n.jpg?_nc_ht=instagram.fjpa13-1.fna.fbcdn.net&_nc_ohc=sCUUqzPZ4uYAX8XXRD6&edm=ABfd0MgBAAAA&ccb=7-4&oh=50b4d04eec1b8caacd262a50ff859d3c&oe=616DE16B&_nc_sid=7bff83">
-</div>
-  
   ##
  
 <div> 
