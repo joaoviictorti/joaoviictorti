@@ -27,7 +27,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=joaoviictorti&show_icons=true&theme=vision-friendly-dark" alt="joaoviictorti's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorti&layout=compact" alt="joaoviictorti's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorti&layout=compact&theme=vision-friendly-dark" alt="joaoviictorti's most languages"/>
 </p>
 
 <br><br>
