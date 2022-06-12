@@ -1,5 +1,5 @@
 
-<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/joaoviictorti/28543b61007ca9a218a149aaa5094c9f/raw/53f6404615234cda4c8725a3e1a409775ad2babb/foto.svg"/>
+<img align="right" height="460px" src="https://raw.githubusercontent.com/gist/joaoviictorti/28543b61007ca9a218a149aaa5094c9f/raw/53f6404615234cda4c8725a3e1a409775ad2babb/foto.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="50px">, Meu nome é João Victor!</h1>
 
 - 🔥 Desenvolvedor Back-end e entusiasta na área de Segurança da Informação 
