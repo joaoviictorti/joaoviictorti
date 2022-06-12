@@ -38,9 +38,6 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Gmail"/>  
-</a>
 <a href="ttps://www.linkedin.com/in/joaovictor08/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-João Victor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
