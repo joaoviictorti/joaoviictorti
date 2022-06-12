@@ -2,17 +2,17 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaoviictorti/28543b61007ca9a218a149aaa5094c9f/raw/53f6404615234cda4c8725a3e1a409775ad2babb/foto.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="50px">, Meu nome é João Victor!</h1>
 
-- 🔥 Desenvolvedor Back-end e entusiasta na área de segurança da informação 
+- 🔥 Desenvolvedor Back-end e entusiasta na área de Segurança da Informação 
 
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas 2/4
 
-- 💬 Amante da linguagem de programação **Python**
+- 💬 Amante da Linguagem de Programação **Python** 🐍
 
-- ⚡ Acompanhe minha jornada na área
+- ⚡ Acompanhe minha jornada na área de Tecnologia da Informação
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Habilidades Tech
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -23,34 +23,28 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Análise Github
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=joaoviictorti&show_icons=true&theme=vision-friendly-dark" alt="joaoviictorti's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorti&layout=compact" alt="joaoviictorti's most languages"/>
 </p>
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="Gmail"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="ttps://www.linkedin.com/in/joaovictor08/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-João Victor-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://instagram.com/viictorjj" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-viictorjj-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
