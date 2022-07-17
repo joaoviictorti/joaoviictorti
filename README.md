@@ -2,11 +2,9 @@
 <img align="right" height="460px" src="https://raw.githubusercontent.com/gist/joaoviictorti/2ece6daa1f1f8029260c8fb572cc01a0/raw/29b0cd31cb93e86a48af359e83052c136b1f62e3/foto.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="50px">, Meu nome é João Victor!</h1>
 
-- 🔥 Desenvolvedor Back-end e entusiasta na área de Segurança da Informação 
-
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas 2/4
 
-- 💬 Amante da Linguagem de Programação **Python** 🐍
+- 💬 Amante da área de **Cibersegurança** 🐍
 
 - ⚡ Acompanhe minha jornada na área de Tecnologia da Informação
 
