@@ -1,8 +1,8 @@
 
-<img align="right" height="460px" src="https://raw.githubusercontent.com/gist/joaoviictorti/2ece6daa1f1f8029260c8fb572cc01a0/raw/29b0cd31cb93e86a48af359e83052c136b1f62e3/foto.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="50px">, Meu nome é João Victor!</h1>
+<img align="right" height="480px" src="https://raw.githubusercontent.com/gist/joaoviictorti/2ece6daa1f1f8029260c8fb572cc01a0/raw/29b0cd31cb93e86a48af359e83052c136b1f62e3/foto.svg"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px" height="60px">, Meu nome é João Victor!</h1>
 
-- 🔑 Estudante na áre de **Cibersegurança** 🔐
+- 🔑 Estudante na área de **Cibersegurança** 🔐
 
 - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas 2/4
 
