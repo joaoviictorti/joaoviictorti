@@ -21,7 +21,7 @@ if __name__ == "__main__":
 <p align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="37" width="40" alt="typescript logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" width="40" alt="python logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg" height="37" width="40" alt="c logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="37" width="40" alt="c++ logo"/>
   <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" height="37" width="40" alt="rust logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" height="37" width="40" alt="go logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/kotlin/kotlin-original.svg" height="37" width="40" alt="kotlin logo"/>
