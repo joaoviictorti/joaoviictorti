@@ -18,8 +18,7 @@ if __name__ == "__main__":
 
 <hr>
 
-<h2>Other information: </h2>
-
+<h2> Github Stats </h2>
 <div align="center">
   <a href="https://github.com/joaoviictorti">
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorti&layout=compact&theme=tokyonight"/>
