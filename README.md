@@ -17,7 +17,6 @@ if __name__ == "__main__":
     joao = Pentester()
 ```
 
-<hr>
 <h2> Github Stats </h2>
 
 <div align="center">
