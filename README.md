@@ -18,6 +18,7 @@ if __name__ == "__main__":
 ```
 
 <hr>
+<h2> Github Stats </h2>
 
 <div align="center">
   <a href="https://github.com/joaoviictorti">
