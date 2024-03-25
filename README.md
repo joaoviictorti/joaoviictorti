@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00009C&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00009C&height=120&section=header"/>-->
 
 <img align="right" width="280" height="280" src="https://media.discordapp.net/attachments/1031268393304735786/1033070519722987530/Coding-bro.png">
 <!--
@@ -24,4 +24,4 @@ if __name__ == "__main__":
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviictorti&layout=compact&theme=tokyonight"/>
   <img width="43%" src="https://github-readme-stats.vercel.app/api?username=joaoviictorti&show_icons=true&theme=tokyonight"/>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00009C&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00009C&height=120&section=footer"/>-->
