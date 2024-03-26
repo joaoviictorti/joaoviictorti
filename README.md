@@ -10,7 +10,7 @@
 class Pentester:
     def __init__(self):
         self.name = "João Victor"
-        self.certis = "eWPTXv2 | eCPPTv2 | DCPT | SCWAP | SCMPA"
+        self.certis = "OSWE | eWPTXv2 | eCPPTv2 | DCPT | SCWAP | SCMPA"
         self.area = "Pentest Web, API, Mobile, Cloud"
 
 if __name__ == "__main__":
