@@ -2,7 +2,11 @@
 
 <h2>About me</h2>
 
-```Python
+I hack things 
+
+OSWE | eWPTXv2 | eCPPTv2 | DCPT | SCMPA | SCWAP
+
+<!--```Python
 class Pentester:
     def __init__(self):
         self.name = "João Victor"
@@ -12,6 +16,7 @@ class Pentester:
 if __name__ == "__main__":
     joao = Pentester()
 ```
+-->
 
 <h2> Github Stats </h2>
 
