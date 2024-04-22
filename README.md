@@ -8,7 +8,7 @@ class Pentester:
     def __init__(self):
         self.name = "João Victor"
         self.certis = "OSWE | eWPTXv2 | eCPPTv2 | DCPT | SCWAP | SCMPA"
-        self.area = "Pentest Web, API, Mobile, Cloud"
+        self.description = "I hack things"
 
 if __name__ == "__main__":
     joao = Pentester()
