@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 My name is João Victor, I currently work as a Pentester.
 
