@@ -6,7 +6,6 @@ I'm passionate about all things security related and I'm an amateur programmer w
 
 Certificates: OSWE | eWPTXv2 | eCPPTv2 | DCPT | SCWAP | SCMPA
 
----
 
 <div align="center">
   <a href="https://github.com/joaoviictorti">
