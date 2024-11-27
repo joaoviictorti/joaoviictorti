@@ -4,8 +4,6 @@ My name is João Victor, I currently work as a Pentester.
 
 I'm passionate about all things security related and I'm an amateur programmer who loves writing offensive tools.
 
-Certificates: OSWE | eWPTXv2 | eCPPTv2 | DCPT | SCWAP | SCMPA
-
 ##
 
 <div align="center">
