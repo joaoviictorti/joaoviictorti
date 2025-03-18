@@ -8,8 +8,6 @@
 - I like kernel, hypervisor, UEFI, and user space security.
 - Amateur programmer in Rust, C++, Python, and Go.
 
-<br>
-
 ##
 
 <div align="center">
