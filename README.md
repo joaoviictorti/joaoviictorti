@@ -1,8 +1,14 @@
-## Hi there 👋
+## Hi, I'm Victor
 
-My name is João Victor, I currently work as a Pentester.
+<img align="right" width="160" src="https://i.etsystatic.com/45893541/r/il/47b33c/6453954486/il_1080xN.6453954486_rfp9.jpg" />
 
-I'm passionate about all things security related and I'm an amateur programmer who loves writing offensive tools.
+- I work as a Pentester.
+- Passionate about Windows Internals and security.
+- I enjoy writing offensive tools and exploring low-level development.
+- I like kernel, hypervisor, UEFI, and user space security.
+- Amateur programmer in Rust, C++, Python, and Go.
+
+<br>
 
 ##
 
