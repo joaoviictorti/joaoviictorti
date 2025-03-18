@@ -1,6 +1,6 @@
 ## Hi, I'm Victor
 
-<img align="right" width="160" src="https://i.etsystatic.com/45893541/r/il/47b33c/6453954486/il_1080xN.6453954486_rfp9.jpg" />
+<img align="right" width="140" src="https://i.etsystatic.com/45893541/r/il/47b33c/6453954486/il_1080xN.6453954486_rfp9.jpg" />
 
 - I work as a Pentester.
 - Passionate about Windows Internals and security.
