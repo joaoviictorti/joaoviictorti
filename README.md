@@ -6,7 +6,7 @@
 - Passionate about Windows Internals and security.
 - I enjoy writing offensive tools and exploring low-level development.
 - I like kernel, hypervisor, UEFI, and user space security.
-- Amateur programmer in Rust, C++, Python, and Go.
+- Amateur programmer in Rust, C++, Python and Go.
 
 ##
 
